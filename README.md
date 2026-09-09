@@ -1,4 +1,4 @@
-# Confidence-Optimal Sparse Johnson Lindenstrauss Transform
+# Confidence-Optimal Sparse Random Projections
 
 Optimal Confidence Bounds for Sparse Random Projections. 
 
